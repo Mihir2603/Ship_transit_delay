@@ -1,0 +1,17 @@
+# Core data analysis libraries
+pandas==2.2.2             # Data manipulation and analysis
+numpy==1.26.4             # Numerical computing
+
+# Visualization
+matplotlib==3.8.4         # Plotting graphs and visualizations
+
+# Machine Learning
+scikit-learn==1.4.2       # ML algorithms, preprocessing, and evaluation tools
+
+# Causal Inference Libraries
+dowhy==0.9                # Causal inference with structural causal models
+doubleml==0.6.1           # Double Machine Learning (DML) framework
+econml==0.26.0            # Microsoft’s library for heterogeneous treatment effect estimation
+
+# Optional: for running Jupyter Notebooks
+notebook==7.1.3           # Jupyter Notebook interface (optional but useful for reproducibility)
